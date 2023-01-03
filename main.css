@@ -1,0 +1,40 @@
+#paragraph1, #paragraph2 {
+    border-bottom: 4px;
+    border-color: rgb(195, 195, 224);
+    border-style: none none dashed none ;
+ }
+
+ #border__dotted {
+    border-style: dotted;
+    border-color: rgb(234, 190, 132);
+    
+ }
+ #border__inset {
+    border-style: inset;
+    border-color: rosybrown;
+ }
+ #border__crimson {
+    border-style: double;
+    border-color: crimson;
+ }
+ #image-rund {
+    border-radius: 100px ;
+ }
+ .border-botton {
+    border-bottom: 6px;
+border-style: none none ridge ;
+border-color: gray;
+ }
+ #button {
+    border-style: none;
+    border-radius: 6px;
+background-color: chocolate;
+ }
+ .aufgabe1 {
+    border-top: 4px;
+    border-style: groove;
+    border-bottom: 4px;
+border-left: none;
+border-right: none;
+
+ }
